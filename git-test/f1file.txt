@@ -1,2 +1,4 @@
 
 bar
+
+Adding new line for hotfix r6.1.
