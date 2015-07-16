@@ -1,2 +1,3 @@
 Testing some GIT stuff
 This line is different between the 2 clones.
+New line to test git merge.
