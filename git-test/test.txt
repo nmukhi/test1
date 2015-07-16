@@ -1,2 +1,2 @@
 Testing some GIT stuff
-Again testing git pull.
+This line is different between the 2 clones.
