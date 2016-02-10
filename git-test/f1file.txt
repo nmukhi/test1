@@ -2,3 +2,5 @@
 bar
 
 Adding new line for hotfix r6.1.
+
+Adding another line for hotfix 0.1.
