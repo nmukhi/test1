@@ -1,0 +1,1 @@
+File to check what happens with "git flow feature finish -F ...".
